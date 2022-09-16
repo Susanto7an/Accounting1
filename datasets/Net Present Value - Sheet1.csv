@@ -1,0 +1,10 @@
+Time,Activity,Value,PV Factor(20%),Present Value of Cash
+Immediately,Investment,"-$350,000.00",,
+1 Year time,Cashflow from operating activities,"-$25,817.50",0.833,"-$21,514.58"
+2 Year time,Cashflow from operating activities,"$168,977.50",0.694,"$117,345.49"
+3 Year time,Cashflow from operating activities,"$295,887.50",0.579,"$171,231.19"
+4 Year time,Cashflow from operating activities,"$368,911.30",0.482,"$177,908.61"
+5 Year time,Cashflow from operating activities,"$334,201.67",0.402,"$134,308.16"
+,,,,
+,Total Present Value of Cash,"$579,278.86",,
+,Net Present Value,"$229,278.86",,
